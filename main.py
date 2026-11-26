@@ -7,7 +7,7 @@ repo-local output/ dir, which the grader mounts read-only.
 
 import os
 
-LINE = "My smart fridge learned my voice, my face and my midnight snack schedule, then started hiding the cheese behind a password I set while asleep."
+LINE = "My smart fridge sent my dentist a selfie of me eating ice cream at 2am, captioned: 'He swore he flossed.'"
 
 
 def main() -> None:
